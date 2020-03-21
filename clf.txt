@@ -1,0 +1,2 @@
+edit clf.txt to test reset
+edit in b2

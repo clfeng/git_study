@@ -1,2 +1,2 @@
-iiii-----hello world
-remote a1
+iiii-----hello world,b2b2, edit in b1
+这是一段用于熟悉reset功能的问题本

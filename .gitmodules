@@ -1,0 +1,3 @@
+[submodule "git_study_submodule"]
+	path = git_study_submodule
+	url = git@github.com:clfeng/git_study_submodule.git
